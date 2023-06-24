@@ -1,0 +1,6 @@
+build/
+CMakeLists.txt.user*
+sdkconfig.old
+.idea
+cmake-build-*ls
+
