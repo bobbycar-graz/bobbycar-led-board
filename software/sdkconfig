@@ -339,6 +339,13 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
+# FastLED
+#
+# CONFIG_FASTLED_METHOD_I2S is not set
+CONFIG_FASTLED_METHOD_RMT=y
+# end of FastLED
+
+#
 # Arduino Configuration
 #
 CONFIG_ENABLE_ARDUINO_DEPENDS=y

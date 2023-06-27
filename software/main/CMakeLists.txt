@@ -10,7 +10,7 @@ set(dependencies
     freertos nvs_flash esp_http_server esp_system driver
     arduino-esp32 ArduinoJson cpputils cxx-ring-buffer date
     espchrono espcpputils espconfiglib esphttpdutils
-    espwifistack expected fmt
+    espwifistack expected fmt esp_adc esp32-sht3x-idf-component FastLED-idf
 )
 
 idf_component_register(

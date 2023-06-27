@@ -43,3 +43,9 @@
 [submodule "software/components/cxx-ring-buffer"]
 	path = software/components/cxx-ring-buffer
 	url = ../../0xFEEDC0DE64/cxx-ring-buffer.git
+[submodule "software/components/esp32-sht3x-idf-component"]
+	path = software/components/esp32-sht3x-idf-component
+	url = ../../CommanderRedYT/esp32-sht3x-idf-component.git
+[submodule "software/components/FastLED-idf"]
+	path = software/components/FastLED-idf
+	url = ../../0xFEEDC0DE64/FastLED-idf.git
